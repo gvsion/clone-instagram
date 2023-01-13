@@ -14,7 +14,9 @@ body{
     width: 800px;
     height: 100%;
     display: flex;
-    align-content: center;
+    align-items: center;
+    justify-content: center;
+    padding-top: 32px;
 }
 
 .container-login{
@@ -63,7 +65,7 @@ body{
     color: #fff;
     padding: 8px 32px;
     border-radius: 8px;
-    font-weight: 650;
+    font-weight: 645;
 }
 
 .button-login a{
